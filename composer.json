@@ -1,5 +1,5 @@
 {
-    "name": "ruyicmf/ruyicmf-root",
+    "name": "kavience/ruyicmf-root",
     "type": "composer-plugin",
     "require": {
         "composer-plugin-api": "^1.0||^2.0"
