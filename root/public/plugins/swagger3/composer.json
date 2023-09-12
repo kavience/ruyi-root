@@ -1,0 +1,16 @@
+{
+    "name": "ruyicmf/plugins-swagger",
+    "description": "RuYiCMF swagger3 plugin",
+    "type": "cmf-plugin",
+    "license": "apache2.0",
+    "authors": [
+        {
+            "name": "catman",
+            "email": "catman@ruyicmf.com"
+        }
+    ],
+    "require": {
+        "zircote/swagger-php": "^3.1",
+        "psr/log": "^1.0"
+    }
+}
